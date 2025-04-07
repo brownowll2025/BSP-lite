@@ -138,3 +138,7 @@
 
     waitAndRun();
 })();
+BSP-lite/torn-pda-win-estimator.user.js
+git add torn-pda-win-estimator.user.js
+git commit -m "Add Torn PDA Win Estimator script"
+git push
